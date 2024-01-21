@@ -1,1 +1,1 @@
-SunTrace Open Source Platform - IGCSM 2023
+SunTrace Open Source Platform - IGCSP 2024
